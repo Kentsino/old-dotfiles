@@ -1,7 +1,7 @@
 " Basic config"
 set termguicolors
-let ayucolor="mirage"
-colorscheme ayu 
+" let ayucolor="mirage""
+colorscheme nord
 syntax on
 set number
 set cursorline
